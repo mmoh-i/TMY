@@ -24,8 +24,12 @@ This project provides a Python-based solution for generating a **Typical Meteoro
 4. **Output**: A CSV file with the representative year and average solar radiation for each month, named dynamically based on the state name.
 
 ---
+```bash
 `git clone https://github.com/mmoh-i/TMY.git`
+```
+```bash
 `cd TMY`
+```
 
 ## Requirements
 
